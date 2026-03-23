@@ -44,7 +44,7 @@ My experience ranges from configuring **Raspberry Pi OS** and hardware scripting
 #### 🧊 3D Mechanical Design (Blender)
 I utilized Blender to create high-fidelity 3D models of the conveyor system to plan component placement and mechanical flow.
 <p align="center">
-  <img src="https://github.com/DELGADO-CHRISTIAN/DELGADO-CHRISTIAN/blob/main/566580689_2343789312720735_8378308840732917609_n.jpg?raw=true" width="50%" alt="Blender Model 1">
+  <img src="https://github.com/DELGADO-CHRISTIAN/DELGADO-CHRISTIAN/blob/main/566580689_2343789312720735_8378308840732917609_n.jpg?raw=true" width="45%" length="50%" alt="Blender Model 1">
   <img src="https://github.com/DELGADO-CHRISTIAN/DELGADO-CHRISTIAN/blob/main/634428275_1430606801785960_3151471627027871439_n.jpg?raw=true" width="45%" alt="Blender Model 2">
 </p>
 
