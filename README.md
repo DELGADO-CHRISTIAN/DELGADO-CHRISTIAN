@@ -55,11 +55,6 @@ Engineered a full-stack web application using **Flask** to serve as a real-time 
   <img src="https://github.com/DELGADO-CHRISTIAN/DELGADO-CHRISTIAN/blob/main/541260818_1342755427555541_3787615142670828649_n.jpg?raw=true" width="80%" alt="Frontend Dashboard">
 </p>
 
-#### 🔌 Hardware Schematic & Wiring
-Detailed electrical mapping for the Raspberry Pi and sensor integration, using color-coded wiring for accurate assembly.
-<p align="center">
-  <img src="https://github.com/DELGADO-CHRISTIAN/DELGADO-CHRISTIAN/blob/main/541591923_1302739244568054_4159546063778015057_n.png?raw=true" width="50%" alt="Wiring Schematic">
-</p>
 
 
 
