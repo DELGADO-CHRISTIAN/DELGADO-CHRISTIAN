@@ -5,7 +5,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghhvgghv1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DELGADO-CHRISTIAN)
 
 📍 San Jose Del Monte, Bulacan, Philippines
 
@@ -69,11 +69,11 @@ Detailed electrical mapping for the Raspberry Pi and sensor integration, using c
 
 | Course / Certification | Issuer | Date |
 | :--- | :--- | :--- |
-| Formulating Competitive Marketing Strategies | Digital Age | June 28, 2025 |
-| Quantum Computer Engineering in the Philippines | Tech Forum | June 24, 2025 |
-| The Future of Development: Vibe Coding | Tech Forum | June 7, 2025 |
-| From Ground to Cloud: Seamless Connectivity | Tech Forum | May 31, 2025 |
-| Training AI for a Better World | Data Ethics | March 15, 2025 |
+| 📜Formulating Competitive Marketing Strategies | Digital Age | June 28, 2025 |
+| 📜Quantum Computer Engineering in the Philippines | Tech Forum | June 24, 2025 |
+| 📜The Future of Development: Vibe Coding | Tech Forum | June 7, 2025 |
+| 📜From Ground to Cloud: Seamless Connectivity | Tech Forum | May 31, 2025 |
+| 📜Training AI for a Better World | Data Ethics | March 15, 2025 |
 
 ---
 
