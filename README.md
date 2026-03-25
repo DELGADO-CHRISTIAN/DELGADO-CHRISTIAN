@@ -16,8 +16,6 @@ I’m a **Computer Engineering student** at Bestlink College of the Philippines 
 
 My experience ranges from configuring **Raspberry Pi OS** and hardware scripting to implementing **OCR systems** for real-time data processing. I am passionate about **cybersecurity fundamentals** and **IoT system security**, aiming to build connectivity that is both seamless and secure.
 
-**Current Goal:** Complete my Capstone project on an **Automated Parcel Sorting Conveyor with IDP system** and continue exploring **Quantum Computer Engineering**.
-
 ---
 
 ### 🛠️ Technical Skills
